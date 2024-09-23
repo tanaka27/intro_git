@@ -3,3 +3,4 @@ gitcommitttttt
 
 tuika
 tig status
+git diff
