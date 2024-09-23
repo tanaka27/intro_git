@@ -2,3 +2,4 @@ GITの練習
 gitcommitttttt
 
 tuika
+tig status
