@@ -1,2 +1,4 @@
 GITの練習
 gitcommitttttt
+
+tuika
