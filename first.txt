@@ -5,3 +5,4 @@ tuika
 tig status
 git diff
 conflict
+pull request
